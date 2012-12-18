@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gravador de Voz</string>
+    <string name="speechrecorderlabel">Gravador de Voz</string>
+    <string name="recordButton">Gravar</string>
+    <string name="redoButton">Refazer</string>
+    <string name="callRadioButton">\"ligar ...\"\nDeclarações</string>
+    <string name="dialNanpRadioButton">\"discar NANP\"\nDeclarações</string>
+    <string name="dialPairsRadioButton">\"discar NANP PAIRS\"\nDeclarações</string>
+</resources>
