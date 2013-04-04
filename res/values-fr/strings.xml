@@ -16,11 +16,11 @@
 -->
 
 <resources>
-    <string name="app_name">Spraakrecorder</string>
-    <string name="speechrecorderlabel">Spraakrecorder</string>
-    <string name="recordButton">Opnemen</string>
-    <string name="redoButton">Opnieuw</string>
-    <string name="callRadioButton">\"bel ...\"\nUitingen</string>
-    <string name="dialNanpRadioButton">\"draai NANP\"\nUitingen</string>
-    <string name="dialPairsRadioButton">\"draai NANP PAIRS\"\nUitingen</string>
+    <string name="app_name">Magnétophone</string>
+    <string name="speechrecorderlabel">Magnétophone</string>
+    <string name="recordButton">Enregistrer</string>
+    <string name="redoButton">Recommencer</string>
+    <string name="callRadioButton">\"appel\u2026\"\nÉnoncer</string>
+    <string name="dialNanpRadioButton">\"composer NANP\"\nÉnoncer</string>
+    <string name="dialPairsRadioButton">\"composer NANP PAIRS\"\nÉnoncer</string>
 </resources>
